@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/srisakha/src/github/metacloud/ansible-systems/deploy/metapod/vagrant_lite/.vagrant/machines/mhv-rhel-7/virtualbox'
+let g:netrw_dirhist_2='/Users/srisakha/.vim/bundle/vim-airline/autoload'
+let g:netrw_dirhist_3='/Users/srisakha/src/github/openstack/monasca-ceilometer/.tox/py27/lib/python2.7/site-packages'
+let g:netrw_dirhist_4='/Users/srisakha/.axion-11-7'
+let g:netrw_dirhist_5='/Users/srisakha/src/github/metacloud/ansible-systems/roles/cisco.nova_common'
+let g:netrw_dirhist_6='/Users/srisakha/src/github/metacloud/ansible-systems/inventory/fusion/metapod/defaults'
+let g:netrw_dirhist_7='/Users/srisakha/src/github/metacloud/ansible-systems/roles/cisco.ceilometer'
+let g:netrw_dirhist_8='/Users/srisakha/src/github/metacloud/ansible-systems/rpms/ansible-meta-mcp'
